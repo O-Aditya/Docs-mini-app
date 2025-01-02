@@ -2,6 +2,8 @@
 
 This is a React-based web application that allows users to create, view, and download documents. The documents are displayed in a card format, and users can add new documents through a form. The application uses Vite for fast development and build processes, Tailwind CSS for styling, and Framer Motion for animations.
 
+![Screenshot 2025-01-02 165516](https://github.com/user-attachments/assets/6ac89105-a5e5-4f24-8f6e-cd2a15b8b156)
+
 
 
 ## Features
